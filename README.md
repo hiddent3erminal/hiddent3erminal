@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hiddent3erminal(Geek)
+- 👋 Hi, I’m @hiddent3erminal(Amirali,Geek)
 - 👀 I’m interested in OS-infrustructure, Network Structure
 - 🌱 I’m currently learning CCna, Bash Scripting
 - 💞️ I’m looking to collaborate on OpenSource Projects
